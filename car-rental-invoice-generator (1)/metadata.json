@@ -1,0 +1,5 @@
+{
+  "name": "Car Rental Invoice Generator",
+  "description": "A dynamic invoice system for car rental brands. Users can easily edit company details, customer information, and rental line items, with a real-time preview of the final invoice. The app provides functionality to add/remove charges, calculate totals automatically, and print a professional-looking invoice.",
+  "requestFramePermissions": []
+}
